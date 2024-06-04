@@ -1,2 +1,2 @@
 # conventional
-release
+release new
